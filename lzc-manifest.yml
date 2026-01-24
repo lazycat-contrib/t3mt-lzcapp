@@ -18,7 +18,7 @@ application:
 services:
   t3mt-service:
     # 85423296/t3mt:2.1.5
-    image: registry.lazycat.cloud/czyt/85423296/t3mt:56654392be8eef7e
+    image: registry.lazycat.cloud/czyt/85423296/t3mt:cb33edb939b5f1b7
     environment:
       - TZ=Asia/Shanghai
     binds:
