@@ -1,5 +1,5 @@
 package: community.lazycat.app.t3mt
-version: 2.1.5
+version: 5.0.9
 name: T3MT
 description: "Free media management assistant with automatic download support for Quark, Tencent, iQiyi, Mango TV, Youku and more"
 min_os_version: "1.5.0"

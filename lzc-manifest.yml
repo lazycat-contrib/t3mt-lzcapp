@@ -5,11 +5,10 @@ application:
       backend: http://t3mt-service:80/
   public_path:
     - /
-
 services:
   t3mt-service:
-    # upstream: 85423296/t3mt:2.1.5
-    image: docker.1ms.run/85423296/t3mt:2.1.5
+    # upstream: 85423296/t3mt:5.0.9
+    image: docker.1ms.run/85423296/t3mt:5.0.9
     environment:
       - TZ=Asia/Shanghai
     binds:
