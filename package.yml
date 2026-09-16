@@ -1,0 +1,18 @@
+package: community.lazycat.app.t3mt
+version: 2.1.5
+name: T3MT
+description: "Free media management assistant with automatic download support for Quark, Tencent, iQiyi, Mango TV, Youku and more"
+min_os_version: "1.5.0"
+homepage: https://github.com/qq85423296/t3mt
+author: qq85423296
+unsupported_platforms:
+  - ios
+  - android
+  - tvos
+locales:
+  zh:
+    description: "免费影视管理助手，夸克全自动下载，腾讯、爱奇艺、芒果、优酷等影视资源全自动更新下载"
+    name: T3MT
+  en:
+    description: "Free media management assistant with automatic download support for Quark, Tencent, iQiyi, Mango TV, Youku and more"
+    name: T3MT
